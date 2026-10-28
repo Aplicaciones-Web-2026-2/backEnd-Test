@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/izzy/Proyects/AppWeb/GreenTech-Test-BackEnd/GreenTech-Test-BackEnd/GreenTech.Test.API/GreenTech.Test.API.csproj": {}
+    "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj": {}
   },
   "projects": {
-    "/home/izzy/Proyects/AppWeb/GreenTech-Test-BackEnd/GreenTech-Test-BackEnd/GreenTech.Test.API/GreenTech.Test.API.csproj": {
+    "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/izzy/Proyects/AppWeb/GreenTech-Test-BackEnd/GreenTech-Test-BackEnd/GreenTech.Test.API/GreenTech.Test.API.csproj",
+        "projectUniqueName": "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj",
         "projectName": "GreenTech.Test.API",
-        "projectPath": "/home/izzy/Proyects/AppWeb/GreenTech-Test-BackEnd/GreenTech-Test-BackEnd/GreenTech.Test.API/GreenTech.Test.API.csproj",
-        "packagesPath": "/home/izzy/.nuget/packages/",
-        "outputPath": "/home/izzy/Proyects/AppWeb/GreenTech-Test-BackEnd/GreenTech-Test-BackEnd/GreenTech.Test.API/obj/",
+        "projectPath": "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj",
+        "packagesPath": "/Users/alumnos/.nuget/packages/",
+        "outputPath": "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/izzy/.nuget/NuGet/NuGet.Config"
+          "/Users/alumnos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/izzy/.dotnet/sdk/10.0.402/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

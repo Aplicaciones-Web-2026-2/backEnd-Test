@@ -5,28 +5,22 @@ namespace GreenTech.Test.API.IAM.Domain.Model.Aggregates;
 
 public partial class User
 {
-    protected User()
-    {
-        SourceId = null!;
-        Name = null!;
-        Email = null!;
-    }
-
-    public User(CreateUserCommand createUserCommand)
-    {
-        ArgumentNullException.ThrowIfNull(createUserCommand);
-        
-        SourceId = createUserCommand.SourceId;
-        Name = null!;
-        Email = null!;
-    }
-    
-    public long Id { get; private set; }
-    
-    public SourceId SourceId { get; init; }
-    
+    public long Id { get; init; }
+    public UserId UserId { get; private set; }
     public string Name { get; private set; }
-    
     public string Email { get; private set; }
+
+    protected User(string name, string email)
+    {
+        Name = null!;
+        Email = null!;
+    }
+    
+    public  User(CreateUserCommand command)
+    {
+        ArgumentNullException.ThrowIfNull(command);
+        
+        UserId = command.UserId;
+    }
     
 }
