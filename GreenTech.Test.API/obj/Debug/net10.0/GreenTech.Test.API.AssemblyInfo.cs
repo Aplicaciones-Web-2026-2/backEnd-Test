@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenTech.Test.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ebd50d8f436eba9f423b6c14767d0ddc99bb1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ad40e70a7fade4fb6e6cbaaf9f8409e003974d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenTech.Test.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenTech.Test.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

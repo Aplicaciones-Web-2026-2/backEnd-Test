@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj": {}
+    "/home/izzy/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj": {}
   },
   "projects": {
-    "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj": {
+    "/home/izzy/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj",
+        "projectUniqueName": "/home/izzy/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj",
         "projectName": "GreenTech.Test.API",
-        "projectPath": "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj",
-        "packagesPath": "/Users/alumnos/.nuget/packages/",
-        "outputPath": "/Users/alumnos/RiderProjects/backEnd-Test/GreenTech.Test.API/obj/",
+        "projectPath": "/home/izzy/RiderProjects/backEnd-Test/GreenTech.Test.API/GreenTech.Test.API.csproj",
+        "packagesPath": "/home/izzy/.nuget/packages/",
+        "outputPath": "/home/izzy/RiderProjects/backEnd-Test/GreenTech.Test.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alumnos/.nuget/NuGet/NuGet.Config"
+          "/home/izzy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/home/izzy/.dotnet/sdk/10.0.402/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
